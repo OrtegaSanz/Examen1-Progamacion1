@@ -3,3 +3,8 @@ C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia.Entities\bin\Debug\Empr
 C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia.Entities\bin\Debug\EmpresaTelefonia.Entities.pdb
 C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia.Entities\obj\Debug\EmpresaTelefonia.Entities.dll
 C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia.Entities\obj\Debug\EmpresaTelefonia.Entities.pdb
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia.Entities\bin\Debug\EmpresaTelefonia.Entities.dll
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia.Entities\bin\Debug\EmpresaTelefonia.Entities.pdb
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia.Entities\obj\Debug\EmpresaTelefonia.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia.Entities\obj\Debug\EmpresaTelefonia.Entities.dll
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia.Entities\obj\Debug\EmpresaTelefonia.Entities.pdb

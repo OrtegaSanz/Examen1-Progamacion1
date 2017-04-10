@@ -12,3 +12,11 @@ C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia\obj\Debug\EmpresaTelefo
 C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia\obj\Debug\EmpresaTelefonia.pdb
 C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.Entities.dll
 C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.Entities.pdb
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.exe.config
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.exe
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.pdb
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.Entities.dll
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.Entities.pdb
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia\obj\Debug\EmpresaTelefonia.csprojResolveAssemblyReference.cache
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia\obj\Debug\EmpresaTelefonia.exe
+C:\Users\Carlo\Desktop\Examen1\Examen1-Progamacion1\EmpresaTelefonia\EmpresaTelefonia\obj\Debug\EmpresaTelefonia.pdb

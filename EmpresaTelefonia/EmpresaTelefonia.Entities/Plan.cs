@@ -8,5 +8,15 @@ namespace EmpresaTelefonia.Entities
 {
     class Plan
     {
+        
+        public Plan()
+        {
+
+        }
+        public string planCap(int plan)
+        {
+            TipoPlan _TipPlan = new TipoPlan(plan);
+            return _TipPlan.getPlan();
+        }
     }
 }

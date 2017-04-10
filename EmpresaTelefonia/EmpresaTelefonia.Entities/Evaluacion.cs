@@ -28,15 +28,18 @@ namespace EmpresaTelefonia.Entities
             int com = 1;
             int tp = 0;
             int con = 1;
+            int plan = 1;
             if(obj.Bien == true)
             {
                 TipoEvaluacion tipEva = new TipoEvaluacion(obj.Bien);
                 Console.WriteLine(tipEva.TipEva());
                 Venta _ven = new Venta(com);
+                Plan _Plan = new Plan();
                 Console.WriteLine("Usted eligio: {0}", _ven.ProdVen());
                 Console.WriteLine("Usted eligio tipo de pago: {0}", _ven.tipPago(tp));
                 Console.WriteLine("Usted eligio el contrato: {0}", _ven.contrato(con));
                 Console.WriteLine("Centro de Compra: {0}", _ven.CenAtn(numero));
+                Console.WriteLine("Tipo de plan es: {0}", _Plan.planCap(plan));
             }
             else
             {
