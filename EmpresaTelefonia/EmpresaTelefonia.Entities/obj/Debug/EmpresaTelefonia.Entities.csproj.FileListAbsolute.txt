@@ -1,0 +1,5 @@
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia.Entities\obj\Debug\EmpresaTelefonia.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia.Entities\bin\Debug\EmpresaTelefonia.Entities.dll
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia.Entities\bin\Debug\EmpresaTelefonia.Entities.pdb
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia.Entities\obj\Debug\EmpresaTelefonia.Entities.dll
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia.Entities\obj\Debug\EmpresaTelefonia.Entities.pdb

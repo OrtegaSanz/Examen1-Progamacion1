@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Examen Programacion\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.exe.config
+C:\Users\Lenovo\Documents\Examen Programacion\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.exe
+C:\Users\Lenovo\Documents\Examen Programacion\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.pdb
+C:\Users\Lenovo\Documents\Examen Programacion\EmpresaTelefonia\EmpresaTelefonia\obj\Debug\EmpresaTelefonia.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Examen Programacion\EmpresaTelefonia\EmpresaTelefonia\obj\Debug\EmpresaTelefonia.exe
+C:\Users\Lenovo\Documents\Examen Programacion\EmpresaTelefonia\EmpresaTelefonia\obj\Debug\EmpresaTelefonia.pdb
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.exe.config
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.exe
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.pdb
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia\obj\Debug\EmpresaTelefonia.csprojResolveAssemblyReference.cache
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia\obj\Debug\EmpresaTelefonia.exe
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia\obj\Debug\EmpresaTelefonia.pdb
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.Entities.dll
+C:\Users\Carlo\Desktop\EmpresaTelefonia\EmpresaTelefonia\bin\Debug\EmpresaTelefonia.Entities.pdb
